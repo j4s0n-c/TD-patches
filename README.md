@@ -1,2 +1,2 @@
 # TD-patches
-Just a spot to share my TouchDesigner patches.
+A place to share my TouchDesigner patches.
